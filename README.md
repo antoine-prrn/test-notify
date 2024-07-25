@@ -1,4 +1,3 @@
 # test-notify
 
-test
-gfdgfdg
+new notification
