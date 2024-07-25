@@ -1,6 +1,2 @@
 # test-notify
-
-new notification !
-cxvxc
-dfg
-dfgdf
+change-detection to mqtt
