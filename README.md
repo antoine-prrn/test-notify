@@ -1,2 +1,2 @@
 # test-notify
-change-detection
+change-detection test
